@@ -1,16 +1,16 @@
 # DCGAN
 
 Loss Curve for DCGAN on Fashion MNIST
-![Loss Curve for DCGAN on Fashion MNIST](../DCGAN/main/results/output_FashionMNIST_curve.png)
+![Loss Curve for DCGAN on Fashion MNIST](https://github.com/robin025/DCGAN/blob/main/results/output_FashionMNIST_curve.png)
 
 Generated Images for DCGAN on Fashion MNIST
-![Generated Images for DCGAN on Fashion MNIST](../DCGAN/main/results/output_FashionMNIST.png)
+![Generated Images for DCGAN on Fashion MNIST](https://github.com/robin025/DCGAN/blob/main/results/output_fashionMNIST.png)
 
 Loss Curve for DCGAN on MNIST
-![Loss Curve for DCGAN on MNIST](../DCGAN/main/results/output_MNIST_curve.png)
+![Loss Curve for DCGAN on MNIST](https://github.com/robin025/DCGAN/blob/main/results/output_MNIST_curve.png)
 
 Generated Images for DCGAN on MNIST
-![Generated Images for DCGAN on MNIST](../DCGAN/main/results/output_MNIST.png)
+![Generated Images for DCGAN on MNIST](https://github.com/robin025/DCGAN/blob/main/results/output_MNIST.png)
 
 ## Introduction
 This is an implementation of DCGAN on Fashion MNIST and MNIST datasets using PyTorch.
